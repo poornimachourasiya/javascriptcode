@@ -1,0 +1,5 @@
+1 .. user id: ABCDE1234E
+2 SIGNUP OR SIGNIN IN GITHUB
+3. download gitbash
+4 installation finished thn go on command propt thn  enter git
+C:\Users\hp>git
